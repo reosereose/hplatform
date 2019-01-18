@@ -29,7 +29,7 @@
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
-				<string>游戏中心</string>
+				<string>software</string>
 				<key>title</key>
 				<string>游戏中心</string>
 			</dict>
