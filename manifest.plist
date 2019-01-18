@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xxx.com/xxx.ipa</string>
+					<string>http://gamecenter.feiboyou.com/Hplatform.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,17 +19,17 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.xxx.com/xxx.png</string>
+					<string>http://gamecenter.feiboyou.com/h.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxx.xxx</string>
+				<string>com.sytvc.hplatform</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>游戏中心</string>
 				<key>title</key>
 				<string>xxx</string>
 			</dict>
